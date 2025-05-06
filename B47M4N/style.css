@@ -11,11 +11,11 @@ body{
 }
 header{
     color: rgb(251, 255, 0);
-    background-color: rgba(0, 0, 255, 0.363);
+    background-color: rgba(0, 0, 128, 0.363);
     display: flex;
 }
 main{
-    background-color: rgba(0, 0, 255, 0.363);
+    background-color: rgba(0, 0, 128, 0.363);
     color: rgb(255, 251, 0);
     width: 100%;
     display: flex;
@@ -23,7 +23,7 @@ main{
     justify-content: center;
 }
 footer{
-    background-color: rgba(0, 0, 255, 0.363);
+    background-color: rgba(0, 0, 128, 0.363);
     color: rgb(251, 255, 0);
 }
 
@@ -35,4 +35,8 @@ footer{
     width: 100%;
     align-items: center;
     justify-content: center;
+}
+
+.overskrift-wrapper h1:hoved;{
+
 }
