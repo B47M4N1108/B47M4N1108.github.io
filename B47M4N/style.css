@@ -15,7 +15,7 @@ header{
     display: flex;
 }
 main{
-    background-color: black;
+    background-color: blue;
     color: rgb(255, 251, 0);
     width: 100%;
     display: flex;
@@ -23,7 +23,7 @@ main{
     justify-content: center;
 }
 footer{
-    background-color: rgb(0, 0, 0);
+    background-color: blue;
     color: rgb(251, 255, 0);
 }
 
